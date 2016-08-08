@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="browserPath" value="C:\Program Files\Internet Explorer\IExplore.exe" />
     <option name="confirmExit" value="false" />
+    <option name="showTipsOnStartup" value="false" />
     <option name="useSafeWrite" value="false" />
   </component>
   <component name="Registry">
