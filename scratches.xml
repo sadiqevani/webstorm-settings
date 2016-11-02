@@ -1,7 +1,9 @@
 <application>
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.twig" value="Twig" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.twig" value="Twig" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="HTML" />
   </component>
 </application>
