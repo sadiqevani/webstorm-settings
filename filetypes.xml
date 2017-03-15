@@ -32,6 +32,7 @@
       <mapping pattern="companies" type="PLAIN_TEXT" />
       <mapping pattern="__test__" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="cert" type="PLAIN_TEXT" />
       <mapping ext="bckp" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="stl" type="Stylus" />
