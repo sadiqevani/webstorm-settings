@@ -12,6 +12,6 @@
     <option name="elementHighlighting" value="false" />
   </component>
   <component name="XmlEditorOptions">
-    <option name="tagTreeHighlightingOpacity" value="40" />
+    <option name="tagTreeHighlightingOpacity" value="30" />
   </component>
 </application>
