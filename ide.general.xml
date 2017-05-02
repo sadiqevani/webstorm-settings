@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="autoSaveIfInactive" value="true" />
     <option name="browserPath" value="C:\Program Files\Internet Explorer\IExplore.exe" />
     <option name="confirmExit" value="false" />
     <option name="showTipsOnStartup" value="false" />
