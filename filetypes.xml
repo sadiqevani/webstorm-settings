@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern=".gitattributes" type="Git file" />
       <mapping ext="tpl" type="HTML" />
-      <mapping ext="marko" type="HTML" />
       <mapping ext="erb" type="HTML" />
       <mapping ext="qml" type="HTML" />
       <mapping pattern=".jestrc" type="JSON" />
@@ -45,6 +44,8 @@
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="stl" type="Stylus" />
       <mapping ext="liquid" type="Twig" />
+      <mapping pattern="marko" type="textmate" />
+      <mapping ext="marko" type="textmate" />
     </extensionMap>
   </component>
 </application>
