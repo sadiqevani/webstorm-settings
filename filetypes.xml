@@ -44,7 +44,6 @@
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="stl" type="Stylus" />
       <mapping ext="liquid" type="Twig" />
-      <mapping pattern="marko" type="textmate" />
       <mapping ext="marko" type="textmate" />
     </extensionMap>
   </component>
