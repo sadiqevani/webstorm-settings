@@ -6,50 +6,48 @@
       <mapping ext="tpl" type="HTML" />
       <mapping ext="erb" type="HTML" />
       <mapping ext="qml" type="HTML" />
-      <removed_mapping ext="html" type="HTML" />
       <mapping pattern=".browser-refresh-ignore" type="Ignore file" />
       <mapping pattern=".jestrc" type="JSON" />
       <mapping pattern=".flowconfig" type="JSON" />
       <mapping ext="mjs" type="JavaScript" />
-      <mapping pattern="title" type="PLAIN_TEXT" />
       <mapping pattern="signageRow.jsx" type="PLAIN_TEXT" />
-      <mapping pattern="tracking-codes" type="PLAIN_TEXT" />
-      <mapping pattern="index" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern=".environment" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern=".fs_watcher" type="PLAIN_TEXT" />
-      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="categories" type="PLAIN_TEXT" />
-      <mapping pattern="language" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="backup" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="onboarding" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="d" type="PLAIN_TEXT" />
-      <mapping pattern="_cert" type="PLAIN_TEXT" />
       <mapping pattern="_id" type="PLAIN_TEXT" />
-      <mapping pattern="vue-pouch-db" type="PLAIN_TEXT" />
-      <mapping pattern="worksan" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="backup" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
+      <mapping pattern=".fs_watcher" type="PLAIN_TEXT" />
+      <mapping pattern="d" type="PLAIN_TEXT" />
+      <mapping pattern=".environment" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="tracking-codes" type="PLAIN_TEXT" />
+      <mapping pattern="language" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="companies" type="PLAIN_TEXT" />
-      <mapping pattern="__test__" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
+      <mapping pattern="vue-pouch-db" type="PLAIN_TEXT" />
+      <mapping pattern="title" type="PLAIN_TEXT" />
+      <mapping pattern="_cert" type="PLAIN_TEXT" />
       <mapping pattern="_pre" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="worksan" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="__test__" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
       <mapping ext="bckp" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="stl" type="Stylus" />
       <mapping ext="liquid" type="Twig" />
-      <mapping ext="html" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
