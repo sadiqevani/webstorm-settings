@@ -7,7 +7,6 @@
       <mapping ext="qml" type="HTML" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="erb" type="HTML" />
-      <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern=".browser-refresh-ignore" type="Ignore file" />
       <mapping pattern=".jestrc" type="JSON" />
       <mapping pattern=".flowconfig" type="JSON" />
@@ -50,7 +49,6 @@
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="stl" type="Stylus" />
       <mapping ext="liquid" type="Twig" />
-      <mapping ext="html" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
