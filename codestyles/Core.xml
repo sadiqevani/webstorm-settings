@@ -1,21 +1,19 @@
-<code_scheme name="Core">
+<code_scheme name="Core" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
       <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="false" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
