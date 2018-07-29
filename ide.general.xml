@@ -13,6 +13,5 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.tooltip.initialDelay" value="500" />
     <entry key="ide.tooltip.show.with.actions" value="true" />
-    <entry key="vcs.annotations.preload" value="true" />
   </component>
 </application>
