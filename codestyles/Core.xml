@@ -7,6 +7,10 @@
   </option>
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+  </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,script,style" />
