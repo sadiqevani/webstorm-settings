@@ -4,5 +4,9 @@
       <display-name>i/@className</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("className")).withParent(xmlTag().withLocalName(string().equalTo("i")))]]></place>
     </injection>
+    <injection language="JSON" injector-id="xml">
+      <display-name>i18n</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("i18n")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
   </component>
 </application>
