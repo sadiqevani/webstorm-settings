@@ -3,8 +3,8 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern=".gitattributes" type="Git file" />
-      <mapping ext="erb" type="HTML" />
       <mapping ext="tpl" type="HTML" />
+      <mapping ext="erb" type="HTML" />
       <mapping ext="qml" type="HTML" />
       <mapping pattern=".browser-refresh-ignore" type="Ignore file" />
       <mapping pattern=".jestrc" type="JSON" />
@@ -40,9 +40,10 @@
       <mapping pattern="__test__" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="bckp" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="aes" type="Reason file" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <removed_mapping ext="html" approved="true" type="Vue.js" />
       <mapping ext="liquid" type="Twig" />
