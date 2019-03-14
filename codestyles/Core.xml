@@ -7,12 +7,14 @@
   </option>
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+  <option name="SOFT_MARGINS" value="120" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_ALIGN_TEXT" value="true" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,script,style" />
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
   </HTMLCodeStyleSettings>
@@ -20,9 +22,11 @@
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
+    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="IMPORTS_WRAP" value="1" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="INDENT_CHAINED_CALLS" value="false" />
@@ -31,7 +35,13 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+    <option name="VALUE_ALIGNMENT" value="1" />
+  </ScssCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
+    <option name="INDENT_CHAINED_CALLS" value="false" />
     <option name="IMPORT_USE_NODE_RESOLUTION" value="GLOBAL" />
   </TypeScriptCodeStyleSettings>
   <XML>
@@ -47,6 +57,11 @@
   <codeStyleSettings language="Dart">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="GraphQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
@@ -66,6 +81,13 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="PROTO">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
@@ -74,6 +96,13 @@
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
