@@ -15,6 +15,7 @@
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingOpacity" value="30" />
