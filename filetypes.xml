@@ -3,9 +3,9 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern=".gitattributes" type="Git file" />
+      <mapping ext="qml" type="HTML" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="erb" type="HTML" />
-      <mapping ext="qml" type="HTML" />
       <mapping pattern=".browser-refresh-ignore" type="Ignore file" />
       <mapping pattern=".jestrc" type="JSON" />
       <mapping pattern=".flowconfig" type="JSON" />
@@ -22,6 +22,7 @@
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="language" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="onboarding" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="d" type="PLAIN_TEXT" />
@@ -33,23 +34,23 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="categories" type="PLAIN_TEXT" />
-      <mapping pattern="__test__" type="PLAIN_TEXT" />
       <mapping pattern="backup" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="companies" type="PLAIN_TEXT" />
       <mapping pattern="_id" type="PLAIN_TEXT" />
-      <mapping pattern="onboarding" type="PLAIN_TEXT" />
+      <mapping pattern="__test__" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
       <mapping pattern="_pre" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
+      <mapping ext="bckp" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
-      <mapping ext="bckp" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="aes" type="Reason file" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <removed_mapping ext="html" approved="true" type="Vue.js" />
-      <mapping ext="aes" type="Reason file" />
       <mapping ext="liquid" type="Twig" />
       <mapping ext="stl" type="Stylus" />
     </extensionMap>
