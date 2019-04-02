@@ -22,7 +22,6 @@
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="language" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="onboarding" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="d" type="PLAIN_TEXT" />
@@ -34,11 +33,12 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="categories" type="PLAIN_TEXT" />
+      <mapping pattern="__test__" type="PLAIN_TEXT" />
       <mapping pattern="backup" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="companies" type="PLAIN_TEXT" />
       <mapping pattern="_id" type="PLAIN_TEXT" />
-      <mapping pattern="__test__" type="PLAIN_TEXT" />
+      <mapping pattern="onboarding" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
       <mapping pattern="_pre" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
@@ -46,6 +46,7 @@
       <mapping ext="bckp" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="aes" type="Reason file" />
