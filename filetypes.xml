@@ -2,10 +2,12 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".gitattributes" type="Git file" />
       <mapping ext="qml" type="HTML" />
-      <mapping ext="tpl" type="HTML" />
       <mapping ext="erb" type="HTML" />
+      <mapping ext="tpl" type="HTML" />
       <mapping pattern=".browser-refresh-ignore" type="Ignore file" />
       <mapping pattern=".jestrc" type="JSON" />
       <mapping pattern=".flowconfig" type="JSON" />
@@ -36,19 +38,19 @@
       <mapping pattern="src" type="PLAIN_TEXT" />
       <mapping pattern="companies" type="PLAIN_TEXT" />
       <mapping pattern="signageRow.jsx" type="PLAIN_TEXT" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="d" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="categories" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="__test__" type="PLAIN_TEXT" />
-      <mapping ext="csr" type="PLAIN_TEXT" />
-      <mapping ext="cert" type="PLAIN_TEXT" />
-      <mapping ext="bckp" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping ext="csr" type="PLAIN_TEXT" />
+      <mapping ext="bckp" type="PLAIN_TEXT" />
+      <mapping ext="cert" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
